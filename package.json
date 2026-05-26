@@ -1,13 +1,9 @@
 {
   "name": "crypto-telegram-bot",
   "version": "1.0.0",
-  "description": "Bot for crypto price tracking by FoxxyOffc",
+  "description": "Telegram bot for crypto price tracking",
   "main": "api/webhook.js",
-  "scripts": {
-    "start": "vercel dev"
-  },
   "dependencies": {
-    "axios": "^1.6.0",
-    "node-cron": "^3.0.3"
+    "axios": "^1.6.0"
   }
 }
